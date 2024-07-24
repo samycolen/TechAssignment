@@ -1,0 +1,10 @@
+com\example\PAF_TechAssignment\Repository\UserRepository.class
+com\example\PAF_TechAssignment\service\AuthService.class
+com\example\PAF_TechAssignment\Model\User.class
+com\example\PAF_TechAssignment\Util\JwtUtils.class
+com\example\PAF_TechAssignment\PafTechAssignmentApplication.class
+com\example\PAF_TechAssignment\Controller\SignUpRequest.class
+com\example\PAF_TechAssignment\Controller\AuthController.class
+com\example\PAF_TechAssignment\Config\SecurityConfig.class
+com\example\PAF_TechAssignment\service\UserServiceDetails.class
+com\example\PAF_TechAssignment\Controller\JwtResponse.class
